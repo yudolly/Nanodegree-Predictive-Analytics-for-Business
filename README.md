@@ -10,7 +10,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 ## Part 2: Creating an Analytical Dataset by Alteryx
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
-- Project: [Data Cleanup](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20an%20Analytical%20Dataset.pdf)
+- Project: [Create an Analytical Dataset](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20an%20Analytical%20Dataset.pdf)
 - Project: [Create Report from Database (SQL)](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20Reports%20from%20a%20Database.pdf)
 
 ## Part 3: Data Visualization in Tableau
@@ -31,11 +31,11 @@ Understand the fundamentals of A/B testing, including experimental design, varia
 ## Part 6: Time Series Forecasting
 Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 
-- Project: [Forecast Video Game Sales]()
+- Project: [Forecast Video Game Demand]()
 
 ## Part 7: Segmentation and Clustering
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model. Then complete a capstone project combining techniques learned throughout the program.
 
-- Project: [Predictive Analytics Capstone]()
+- Project: [Combining Predictive Techniques]()
 
 ![Image description](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Business%20Analyst%20Udacity%20Certificate.jpg)
