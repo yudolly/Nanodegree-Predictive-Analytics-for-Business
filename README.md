@@ -1,5 +1,5 @@
 # Nanodegree-Predictive-Analytics-for-Business
-## Dolly Yu 
+## Dolly Yu [Udacity](https://confirm.udacity.com/KR4QHHJP)
 This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. (Previously known as Business Analyst Nanodegree)
 ## Part 1: Problem Solving with Advanced Analytics by Alteryx
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
