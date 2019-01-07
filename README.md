@@ -11,7 +11,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
 - Project: [Data Cleanup](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20an%20Analytical%20Dataset.pdf)
-Project: [Create Report from Database (SQL)](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20Reports%20from%20a%20Database.pdf)
+- Project: [Create Report from Database (SQL)](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20Reports%20from%20a%20Database.pdf)
 
 ## Part 3: Data Visualization in Tableau
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
