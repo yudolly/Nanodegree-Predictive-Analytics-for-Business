@@ -37,3 +37,5 @@ Understand trend, seasonal, and cyclical behavior of time series data. Use time 
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model. Then complete a capstone project combining techniques learned throughout the program.
 
 - Project: [Predictive Analytics Capstone]()
+
+![Image description](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Business%20Analyst%20Udacity%20Certificate.jpg)
