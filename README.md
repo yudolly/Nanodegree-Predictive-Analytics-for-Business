@@ -4,7 +4,7 @@ This repository contains projects for Udacity's [Predictive Analytics for Busine
 ## Part 1: Problem Solving with Advanced Analytics
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
-- Project: [Predicting Diamond Prices](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Predicting%20Diamond%20Prices.pdf)
+- Project: [Predicting Diamond Prices](Nanodegree-Predictive-Analytics-for-Business/1 Problem Solving with Advanced Analytics/Predicting Diamond Prices.pdf)
 - Project: [Predicting Catalog Demand](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Predicting%20Catalog%20Demand.pdf)
 
 ## Part 2: Data Wrangling
