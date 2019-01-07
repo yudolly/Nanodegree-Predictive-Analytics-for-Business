@@ -7,7 +7,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 - Project: [Predicting Diamond Prices](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Predicting%20Diamond%20Prices.pdf)
 - Project: [Predicting Catalog Demand](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Predicting%20Catalog%20Demand.pdf)
 
-## Part 2: Creating an Analytical Dataset
+## Part 2: Data Wrangling
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
 - Project: [Create an Analytical Dataset](https://github.com/yudolly/Nanodegree-Predictive-Analytics-for-Business/blob/master/Create%20an%20Analytical%20Dataset.pdf)
